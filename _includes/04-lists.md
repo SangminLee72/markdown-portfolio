@@ -1,3 +1,3 @@
--Games
--Korean food
--beach
+- Games
+- Korean food
+- Beach
